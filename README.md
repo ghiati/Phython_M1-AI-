@@ -59,3 +59,4 @@ ai-master-class-python-exercises/
 ## Contributing
 
 Contributions are welcome! If you have additional exercises or improvements to existing ones, feel free to submit a pull request or open an issue to discuss your ideas.
+week 4 and 5 coming soon :) 
